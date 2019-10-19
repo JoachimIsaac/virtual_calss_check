@@ -1,0 +1,39 @@
+Name: Joachim Isaac
+Program2: Cryptograph
+
+Plain text: This is a poem/chant from a show I like.
+Encrypted text: Uijt!jt!b!qpfn0dibou!gspn!b!tipx!J!mjlf/
+
+Plain text: Hope you like it!
+Encrypted text: Ipqf!zpv!mjlf!ju"
+
+Plain text: Fate Stay Night - Unlimited Blade Works:
+Encrypted text: Gbuf!Tubz!Ojhiu!.!Vomjnjufe!Cmbef!Xpslt;
+
+Plain text: I am the Bone of my Sword
+Encrypted text: J!bn!uif!Cpof!pg!nz!Txpse
+
+Plain text: Steel is my Body and Fire is my Blood.
+Encrypted text: Tuffm!jt!nz!Cpez!boe!Gjsf!jt!nz!Cmppe/
+
+Plain text: I have created over a Thousand Blades,
+Encrypted text: J!ibwf!dsfbufe!pwfs!b!Uipvtboe!Cmbeft-
+
+Plain text: Unknown to Death,
+Encrypted text: Volopxo!up!Efbui-
+
+Plain text: Nor known to Life.
+Encrypted text: Ops!lopxo!up!Mjgf/
+
+Plain text: Have withstood Pain to create many Weapons
+Encrypted text: Ibwf!xjuituppe!Qbjo!up!dsfbuf!nboz!Xfbqpot
+
+Plain text: Yet those Hands will never hold Anything.
+Encrypted text: Zfu!uiptf!Iboet!xjmm!ofwfs!ipme!Bozuijoh/
+
+Plain text: So, as I Pray--
+Encrypted text: Tp-!bt!J!Qsbz..
+
+Plain text: Unlimited Blade Works!
+Encrypted text: Vomjnjufe!Cmbef!Xpslt"
+
